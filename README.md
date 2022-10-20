@@ -1,0 +1,1 @@
+# detection-des-defauts-photovoltaique-a-base-d-intilligence-artificielle
